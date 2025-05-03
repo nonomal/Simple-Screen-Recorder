@@ -35,11 +35,6 @@ Where can you **install the app**?
 
 - Or extract it in a simple root directory, such as "C:\Simple-Screen-Recorder".
 
-<h2 align="center">Similar project</h2>
-<p align="left">
-I have made another <a href="https://github.com/lextrack/MiniScreenRecorder">screen recorder</a> for Windows and Linux. It is even simpler and lighter, and the resulting video recording is in MP4 or MKV format with included audio without the need for conversion. Additionally, it allows recording a specific area of the screen.
-</p>
-
 <h2 align="center">Acknowledgments</h2>
 
 <p>Thanks to <strong>Flaticon</strong> for the icons, <strong>FFmpeg</strong> for their incredible framework, <strong>NAudio</strong>, and <strong>TutorialesVbNET</strong> for giving me the inspiration to create this.</p>
